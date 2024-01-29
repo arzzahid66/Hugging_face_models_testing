@@ -1,6 +1,6 @@
 streamlit==1.30.0
 requests>=2.27,<3
-dotenv==0.19.1
+dotenv>=0.19.1
 pydub==0.26.7
 importlib-metadata==7.0.1
 pyarrow==15.0.0
