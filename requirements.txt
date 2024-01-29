@@ -1,4 +1,9 @@
 streamlit==1.30.0
-requests==2.26.0
-python-dotenv==0.19.1
-pydub==0.25.1
+requests>=2.27,<3
+dotenv==0.19.1
+pydub==0.26.7
+importlib-metadata==7.0.1
+pyarrow==15.0.0
+pandas==2.2.0
+tenacity==8.2.3
+gitpython==3.1.41
