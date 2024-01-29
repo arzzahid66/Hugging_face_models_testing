@@ -1,8 +1,4 @@
 streamlit
 request
-load_dotenv
-io
-time
-ffmpeg  
 ipython
 pydub  
